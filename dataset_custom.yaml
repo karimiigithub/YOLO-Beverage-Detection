@@ -1,0 +1,5 @@
+train: C:/Users/karimii/Desktop/yolov26_custom/train
+val: C:/Users/karimii/Desktop/yolov26_custom/val
+
+nc: 3
+names: ["7up", "pepsi", "yedigun"]
